@@ -1,0 +1,20 @@
+.web{
+  text-align: center;
+}
+.btn {
+  border: none;
+  background-color:red;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+
+
+.success {color: green;}
+.info {color: dodgerblue;}
+.warning {color: orange;}
+.danger {color: red;}
+.default {color: black;}
