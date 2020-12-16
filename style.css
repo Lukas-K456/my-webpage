@@ -14,7 +14,7 @@
 
 
 .success {color: green;}
-.info {color: dodgerblue;}
+.class117 {color: dodgerblue;}
 .warning {color: orange;}
 .danger {color: red;}
 .default {color: black;}
@@ -27,11 +27,13 @@
   position: sticky;
   top: 0;
   background-color: rgb(151, 29, 233);
-  border: 2px solid blueviolet
+  border: 2px solid white
 }
 .class3 {
   margin: auto;
   width: 75%;
   border: 3px solid green;
-  padding: 100px;
+  padding: 1px;
+}
+.classA{ color:purple }
 }
